@@ -40,3 +40,8 @@ Karolina Sumowska jest również współautorką obu prac wymienionych poniżej.
 1. **W. Duklas, K. Sumowska, V. Osińska** (2026). *Object tracking to analyze facial expressions in Virtual Reality: designing application to estimate user emotions*. **2026 Progress in Applied Electrical Engineering (PAEE)**, IEEE. [IEEE Xplore](https://ieeexplore.ieee.org/document/11660689) · [DOI: 10.1109/PAEE71887.2026.11660689](https://doi.org/10.1109/PAEE71887.2026.11660689).
 
 2. **K. Sumowska, W. Duklas, V. Osińska** (2026). *Analiza mimiki twarzy w VR: projektowanie aplikacji z wykorzystaniem eye-, face- i object tracking*. **Manuskrypt zgłoszony do publikacji**.
+
+**Wojciech Duklas**  
+Rok: 2026
+Uniwersytet Mikołaja Kopernika w Toruniu  
+*Projekt zrealizowany w ramach pracy magisterskiej*
